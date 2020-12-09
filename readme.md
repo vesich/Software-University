@@ -1,2 +1,3 @@
-              # JAVASCRIPT COURSES
-             ## EXCERCISES AND LABS
+# JAVASCRIPT COURSES at @SoftUni
+
+## EXCERCISES AND LABS
