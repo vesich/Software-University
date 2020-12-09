@@ -1,6 +1,7 @@
-# Javascript Courses at @SoftUni
+# **Javascript Courses at @SoftUni**
 ---
-## JS Basics, August 2020
+
+## JS Basics, July 2020
 - [01. First Steps in Coding](https://github.com/vesich/Software-University/tree/master/JavaScript%20Basics/01.%20First%20Steps%20in%20Coding)
 - [02. Conditional Statements](https://github.com/vesich/Software-University/tree/master/JavaScript%20Basics/02.%20Conditional%20Statements)
 - [03.Conditional Statements Advanced](https://github.com/vesich/Software-University/tree/master/JavaScript%20Basics/03.%20Conditional%20Statements%20Advanced)
