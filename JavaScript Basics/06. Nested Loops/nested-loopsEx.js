@@ -127,3 +127,25 @@ function solve(inputData) {
 
 
 //// 05. Special Numbers
+
+function solve(input) {
+    let n = Number(input)
+    let result = "";
+    for (let i = 1111; i < 9999; i++) {
+        i = String(i);
+        let isTrue = true;
+        for (let j = 0; j < i.length; j++) {
+            if (n % Number(i[j]) == 0) {
+                isTrue = false
+            } else {
+                isTrue = true
+                break;
+            }
+        }
+        if (!isTrue) {
+            result += i + " ";
+        }
+    }
+    console.log(result)
+}
+solve(["16"])
