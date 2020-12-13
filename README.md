@@ -11,3 +11,7 @@
 
 ---
 ## JS Fundamentals, September 2020
+-[Associative Arrays](https://github.com/vesich/Software-University/tree/master/JS%20Fundamentals/AssocArrays)
+-[Object and Classes](https://github.com/vesich/Software-University/tree/master/JS%20Fundamentals/ObjectAndClasses)
+-[Regular Expressions](https://github.com/vesich/Software-University/tree/master/JS%20Fundamentals/Regular%20Expressions)
+-[String Processing](https://github.com/vesich/Software-University/tree/master/JS%20Fundamentals/StringProcessing)
