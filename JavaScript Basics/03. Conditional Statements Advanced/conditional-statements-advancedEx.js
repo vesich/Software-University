@@ -222,8 +222,6 @@ function operations(arg1, arg2, arg3) {
     let operator = arg3;
     let result = 0
     let num = '';
-
-
     if (operator == "+") {
         result = n1 + n2;
         if (result % 2 == 0) {
@@ -304,7 +302,6 @@ function hotelRooms(arg1, arg2) {
     }
     studioAll = (studio * nights).toFixed(2);
     apartmentAll = (apartment * nights).toFixed(2);
-
     console.log(`Apartment: ${apartmentAll} lv.`);
     console.log(`Studio: ${studioAll} lv.`);
 }

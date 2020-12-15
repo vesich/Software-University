@@ -16,7 +16,6 @@ function numbers() {
 function digits(arg1) {
     let n = Number(arg1);
     let sum
-
     for (let i = 1; i <= 10; i++) {
         sum = i * n;
         console.log(`${i} * ${n} = ${sum}`);
@@ -31,7 +30,6 @@ function digits(arg1) {
 function years(arg1, arg2) {
     let leapYear = Number(arg1);
     let randomYear = Number(arg2);
-
     for (let i = leapYear; i <= randomYear; i += 4) {
         console.log(i);
     }
@@ -45,7 +43,6 @@ function years(arg1, arg2) {
 function fact(arg1) {
     let n = Number(arg1);
     let total = 1;
-
     for (let i = 2; i <= n; i++) {
         total = total * i;
     }
@@ -77,7 +74,7 @@ function fact(arg1) {
 }
 
 
-// //
+
 
 //// 06. Histogram
 
@@ -125,7 +122,6 @@ function delenie(a) {
     let p2 = 0;
     let p3 = 0;
     let n = a[0];
-
     for (i = 1; i <= n; i++) {
         if (a[i] % 2 === 0) {
             p1++;
@@ -137,11 +133,9 @@ function delenie(a) {
             p3++;
         }
     }
-
     let p1Sum = ((p1 / n) * 100).toFixed(2);
     let p2Sum = ((p2 / n) * 100).toFixed(2);
     let p3Sum = ((p3 / n) * 100).toFixed(2);
-
     console.log(`${p1Sum}%`);
     console.log(`${p2Sum}%`);
     console.log(`${p3Sum}%`);

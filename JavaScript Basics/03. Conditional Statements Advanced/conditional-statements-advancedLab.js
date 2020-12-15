@@ -403,8 +403,6 @@ function hotel(arg1, arg2, arg3) {
         case "negative":
             price = 0.9 * price;
             break;
-
-
     }
     console.log(price.toFixed(2));
 
