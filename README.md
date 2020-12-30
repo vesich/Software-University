@@ -15,3 +15,11 @@
 - [Object and Classes](https://github.com/vesich/Software-University/tree/master/JS%20Fundamentals/ObjectAndClasses)
 - [Regular Expressions](https://github.com/vesich/Software-University/tree/master/JS%20Fundamentals/Regular%20Expressions)
 - [String Processing](https://github.com/vesich/Software-University/tree/master/JS%20Fundamentals/StringProcessing)
+
+
+---
+
+## Certificates
+- [Programming Basics - July 2020](https://softuni.bg/certificates/details/88253/7be1da16)
+- [Programming Fundamentals - September 2020](https://softuni.bg/certificates/details/94192/c1a3e8f6)
+
