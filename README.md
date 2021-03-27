@@ -11,13 +11,22 @@
 
 ---
 ## JS Fundamentals, September 2020
-- [Associative Arrays](https://github.com/vesich/Software-University/tree/master/JS%20Fundamentals/AssocArrays)
-- [Object and Classes](https://github.com/vesich/Software-University/tree/master/JS%20Fundamentals/ObjectAndClasses)
-- [Regular Expressions](https://github.com/vesich/Software-University/tree/master/JS%20Fundamentals/Regular%20Expressions)
-- [String Processing](https://github.com/vesich/Software-University/tree/master/JS%20Fundamentals/StringProcessing)
-
+- [01. Associative Arrays](https://github.com/vesich/Software-University/tree/master/JS%20Fundamentals/AssocArrays)
+- [02. Object and Classes](https://github.com/vesich/Software-University/tree/master/JS%20Fundamentals/ObjectAndClasses)
+- [03. Regular Expressions](https://github.com/vesich/Software-University/tree/master/JS%20Fundamentals/Regular%20Expressions)
+- [04. String Processing](https://github.com/vesich/Software-University/tree/master/JS%20Fundamentals/StringProcessing)
 
 ---
+## JS Advanced, January 2021
+- [01. Syntax Functions Statements](https://github.com/vesich/Software-University/tree/master/JS%20Advanced/01.Syntax-Functions-Statements)
+- [02. Arrays and Nested Arrays](https://github.com/vesich/Software-University/tree/master/JS%20Advanced/02.Arrays-And-Nested-Arrays)
+- [03. Objects and Composition](https://github.com/vesich/Software-University/tree/master/JS%20Advanced/03.Objects-and-Composition)
+- [04. DOM Introduction](https://github.com/vesich/Software-University/tree/master/JS%20Advanced/04.DOM-Introduction)
+- [05. DOM Manipulation and Events](https://github.com/vesich/Software-University/tree/master/JS%20Advanced/05.DOM-Manipulation-and-Events)
+- [06. Advanced Functions](https://github.com/vesich/Software-University/tree/master/JS%20Advanced/06.Advanced-Functions)
+- [07. Unit Testing](https://github.com/vesich/Software-University/tree/master/JS%20Advanced/07.Unit-Testing)
+- [08. Classes](https://github.com/vesich/Software-University/tree/master/JS%20Advanced/08.Classes)
+- [09. Prototypes and Inheritance](https://github.com/vesich/Software-University/tree/master/JS%20Advanced/09.Prototypes-and-Inheritance)
 
 ## Certificates
 - [Programming Basics - July 2020](https://softuni.bg/certificates/details/88253/7be1da16)
