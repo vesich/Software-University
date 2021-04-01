@@ -26,7 +26,7 @@
 - [06. Advanced Functions](https://github.com/vesich/Software-University/tree/master/JS%20Advanced/06.Advanced-Functions)
 - [07. Unit Testing](https://github.com/vesich/Software-University/tree/master/JS%20Advanced/07.Unit-Testing)
 - [08. Classes](https://github.com/vesich/Software-University/tree/master/JS%20Advanced/08.Classes)
-- [09. Prototypes and Inheritance](https://github.com/vesich/Software-University/tree/master/JS%20Advanced/09.Prototypes-and-Inheritance)
+
 
 ## Certificates
 - [Programming Basics - July 2020](https://softuni.bg/certificates/details/88253/7be1da16)
