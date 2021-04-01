@@ -110,7 +110,6 @@ console.log(solve(['Isacc / 25',
 
 
 
-
 // 05. Lowest Prices in Cities /////////////////////////////////////
 
 function solve(array) {
@@ -325,6 +324,4 @@ console.log(list.get(1));
 
 
 
-
-// 10. Heroes ///////////////////////////////////////////////
 

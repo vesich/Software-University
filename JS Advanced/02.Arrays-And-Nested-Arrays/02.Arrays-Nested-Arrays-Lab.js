@@ -7,15 +7,9 @@ function solve(input) {
     }
     console.log(result.join(" "));
 }
+
 solve(['20', '30', '40', '50', '60'])
 solve(['5', '10'])
-
-
-
-
-// 02. Last K Numbers Sequence //////////////////////////////////////////
-
-
 
 
 
@@ -27,6 +21,7 @@ function solve(input) {
     let result = Number(input.pop()) + Number(input.shift());
     console.log(result);
 }
+
 solve(['20', '30', '40'] )
 solve(['5', '10'])
 
@@ -93,6 +88,7 @@ let newArr = [];
     }
    return newArr;
 }
+
 solve(['Apple Crisp', 
 
 'Mississippi Mud Pie', 
@@ -121,8 +117,10 @@ function solve(input) {
     }
     return newArr.map(x => x * 2).reverse().join(" ");
 }
+
 solve([10, 15, 20, 25])
 solve([3, 0, 10, 4, 7, 3])
+
 
 
 
@@ -171,6 +169,4 @@ solve([[3, 5, 17],
 
 
 
-
-// 11. Equal Neighbors
 
