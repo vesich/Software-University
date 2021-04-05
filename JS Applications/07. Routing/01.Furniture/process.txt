@@ -1,0 +1,19 @@
+Extract Project skeleton and examine files
+Setup NPM project ( package.json + libraries) /// lit-html, page
+Analyze the HTML and determine templates
+Configure routing with placeholder modules
+Implement requests -- API, data modules
+Implement each view
+-- create static templates
+-- implement fetch requests 
+-- add parameters to template
+-- add event listeners if any
+
+
+всяко view се нарича :
+
+View Controller == module
+- fetch data
+- interpolate templates
+- handle user input
+- return content/ render content
