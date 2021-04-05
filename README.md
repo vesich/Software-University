@@ -27,6 +27,17 @@
 - [07. Unit Testing](https://github.com/vesich/Software-University/tree/master/JS%20Advanced/07.Unit-Testing)
 - [08. Classes](https://github.com/vesich/Software-University/tree/master/JS%20Advanced/08.Classes)
 
+---
+## JS Applications, March 2021
+- [02. Aynchronous Programming](https://github.com/vesich/Software-University/tree/master/JS%20Applications/02.Asynchronous-Programming)
+- [03. Remote Data and Authentication](https://github.com/vesich/Software-University/tree/master/JS%20Applications/03.Remote-Data-and-Authentication)
+- [04. Single Page Applications](https://github.com/vesich/Software-University/tree/master/JS%20Applications/04.Single-Page-Applications)
+- [05. Architecture and Testing](https://github.com/vesich/Software-University/tree/master/JS%20Applications/05.Architecture-and-Testing)
+- [06. Client Side Rendereing](https://github.com/vesich/Software-University/tree/master/JS%20Applications/06.Client-Side-Rendering)
+- [07. Routing](https://github.com/vesich/Software-University/tree/master/JS%20Applications/07.%20Routing)
+- [11. Preparation for exam I](https://github.com/vesich/Software-University/tree/master/JS%20Applications/11.Exam-Prep/Meme-Lounge)
+- [12. Preparation for exam II](https://github.com/vesich/Software-University/tree/master/JS%20Applications/12.Exam-Prep/CarTube)
+- [13. Exam 04.04.2021](https://github.com/vesich/Software-University/tree/master/JS%20Applications/13.Exam-04-04-21)
 
 ## Certificates
 - [Programming Basics - July 2020](https://softuni.bg/certificates/details/88253/7be1da16)
