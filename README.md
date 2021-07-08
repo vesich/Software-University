@@ -47,5 +47,9 @@
 
 ## Certificates
 - [Programming Basics - July 2020](https://softuni.bg/certificates/details/88253/7be1da16)
-- [Programming Fundamentals - September 2020](https://softuni.bg/certificates/details/94192/c1a3e8f6)
+- [Programming Fundamentals - September 2020](https://softuni.bg/certificates/details/96751/fd461c60)
+- [JS Advanced - January 2021](https://softuni.bg/certificates/details/103889/bca368ca)
+- [JS Applications - February 2021](https://softuni.bg/certificates/details/102322/fe61f769)
+- [JS Back-End - May 2021](https://softuni.bg/certificates/details/108972/07d1a191)
+
 
