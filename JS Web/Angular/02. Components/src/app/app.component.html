@@ -1,0 +1,25 @@
+<div>HEADER</div>
+
+<div id="content">
+<app-userlist [userArray]="users" (addUser)="addNewUserHandler($event)"></app-userlist>
+</div>
+
+<div>FOOTER</div>
+
+<!-- <ul>
+  <li *ngFor="let user of users">
+    <span>{{user.name}} &nbsp;</span>
+  
+    <span>{{user.age}}</span>
+  </li>
+</ul> -->
+
+<!-- <input [attr.test]="title"> -->
+
+<!-- <img [src]="" alt=""> -->
+
+
+<!-- <div *ngIf="showText">VISIBLE</div>
+
+<button (click)="toggleText()">{{showText ? 'HIDE TEXT' : 'SHOW TEXT'}}</button> -->
+
