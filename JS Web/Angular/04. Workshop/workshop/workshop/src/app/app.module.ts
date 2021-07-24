@@ -4,18 +4,24 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 import { CoreModule } from './core/core.module';
-import { ThemeComponent } from './theme/theme.component';
+
 import { ContentService } from './content.service';
+
+import { HomeComponent } from './home/home.component';
+import { UserModule } from './user/user.module';
+import { ThemeModule } from './theme/theme.module';
 
 @NgModule({
   declarations: [
     AppComponent,
-    ThemeComponent
+    HomeComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    CoreModule
+    CoreModule,
+    UserModule,
+    ThemeModule
   ],
   providers: [ContentService],
   bootstrap: [AppComponent]
