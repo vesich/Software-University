@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { ContentService } from './content.service';
-import { IPost, ITheme } from './shared/interfaces';
+import { IPost } from './shared/interfaces';
 
 @Component({
   selector: 'app-root',

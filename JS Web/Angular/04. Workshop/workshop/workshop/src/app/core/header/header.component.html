@@ -4,13 +4,17 @@
             <p class="logo"><span class="logo" routerLink="/" >SoftUni Forum</span></p>
         </div>
         <div class="mini-navbar">
-            <ul>
+            <ul *ngIf="!isLogged">
                 <li>
                     <a routerLink="/login">Login</a>
                 </li>
                 <li>
                     <a routerLink="/register">Register</a>
                 </li>
+            </ul>
+            <ul *ngIf="isLogged">
+                <li routerLink="/profile">{{firstName}}'s profile</li>
+                <li (click)="logout()" >Logout</li>
             </ul>
         </div>
     </div>

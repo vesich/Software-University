@@ -5,6 +5,8 @@ import { FooterComponent } from './footer/footer.component';
 import { AsideComponent } from './aside/aside.component';
 import { HttpClientModule } from '@angular/common/http'
 import { RouterModule } from '@angular/router';
+import { LocalStorage } from './injection-tokens';
+import { AuthActivate } from './guards/auth.activate';
 
 
 
@@ -26,7 +28,7 @@ import { RouterModule } from '@angular/router';
   ],
   providers: [
     {
-      provide: localStorage,
+      provide: LocalStorage,
       useFactory: (platformId: Object) => {
 
         if (isPlatformBrowser(platformId)) {
@@ -59,11 +61,12 @@ import { RouterModule } from '@angular/router';
             }
           }
         }
-        throw Error('NOOT IMPLEMENTED')
+        throw Error('NOT IMPLEMENTED')
       },
       deps: [PLATFORM_ID]
       // useValue: window.localStorage
-    }
+    },
+    AuthActivate
   ]
 })
 export class CoreModule {
