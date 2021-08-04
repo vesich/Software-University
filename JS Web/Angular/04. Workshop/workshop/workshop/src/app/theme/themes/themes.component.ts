@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { ContentService } from 'src/app/content.service';
-import { ITheme } from 'src/app/shared/interfaces';
+import { IPost, ITheme } from 'src/app/shared/interfaces';
 
 
 
@@ -12,13 +12,20 @@ import { ITheme } from 'src/app/shared/interfaces';
 })
 export class ThemesComponent {
   themes: ITheme[] | undefined;
+  recentPosts: IPost[] | undefined;
 
   constructor(private contentService: ContentService) {
     this.fetchThemes();
+    this.fetchRecentPosts();
   }
 
   fetchThemes(): void {
     this.themes = undefined;
     this.contentService.loadThemes().subscribe(themes => this.themes = themes);
+  }
+
+  fetchRecentPosts(): void {
+    this.recentPosts = undefined;
+    this.contentService.loadPosts(5).subscribe(posts => this.recentPosts = posts);
   }
 }

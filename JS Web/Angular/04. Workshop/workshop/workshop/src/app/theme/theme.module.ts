@@ -3,13 +3,15 @@ import { CommonModule } from '@angular/common';
 import { ThemesComponent } from './themes/themes.component';
 import { NewThemeComponent } from './new-theme/new-theme.component';
 import { ThemeRoutingModule } from './theme-routing.module';
+import { AsideComponent } from './aside/aside.component';
 
 
 
 @NgModule({
   declarations: [
     NewThemeComponent,
-    ThemesComponent
+    ThemesComponent,
+    AsideComponent
   ],
   imports: [
     CommonModule,
