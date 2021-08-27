@@ -1,4 +1,4 @@
- hey                                                   # **Javascript Courses at @SoftUni**
+ # **Javascript Courses at @SoftUni**
 ---
 
 ## JS Basics, July 2020
